@@ -1,4 +1,3 @@
-const { log } = require("console");
 const readline = require("readline");
 const rl = readline.createInterface({
     input: require("fs").createReadStream("input.txt"),
